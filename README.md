@@ -3,8 +3,7 @@
 ## 🚀 About Me:
 I'm a passionate **Full Stack Developer** specializing in frontend development with React and backend technologies like Node.js and Express.js. I enjoy building scalable, high-performance web applications, contributing to open-source projects, and continuously learning new tools and technologies.
 
-- 🌱 Currently Learning: **Next.js** and **GraphQL**
-- 🔭 Working on: [Pizza Time](https://github.com/abhishek-kumar/pizza-time) | [Shopping Time](https://github.com/abhishek-kumar/shopping-time)
+- 🌱 Currently Learning: **PHP** and **Laravel**
 - 🎓 Education: B.Tech in Computer Science from **Lovely Professional University**
 - 💬 Ask me about: React, Node.js, MongoDB, or PHP
 - 💻 Fun fact: I also love exploring cloud solutions, especially **AWS**
@@ -64,9 +63,11 @@ An online clothing store showcasing over 150 products with dynamic category filt
 </p>
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishek_kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-8b06a9228/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbHi0012ShEk?t=AnVe0oynIrdhCtT2JBThQw&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1abhiabhishek1?igsh=NDN1bm13ZzJ2djJp)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6203595849)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aabhishekkumarportfolio.netlify.app/)
 
 ## 🖥️ Visitors:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=abhishek-kumar&color=blue&style=flat-square)
