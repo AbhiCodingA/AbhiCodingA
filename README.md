@@ -28,111 +28,11 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🌟 Featured Projects:
 
-### 1️⃣ [Project Name 1](https://github.com/abhishek-kumar/project-1)
-Project Description: Briefly describe your project here. Include key technologies used, the problem it solves, and its impact or significance.
 
-![Project Image](https://user-images.githubusercontent.com/project-1-image.jpg) <!-- Replace with an image or gif of your project -->
 
-- **Tech Stack:** React, Node.js, MongoDB
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
 
----
 
-### 2️⃣ [Project Name 2](https://github.com/abhishek-kumar/project-2)
-Project Description: Describe your second project, outlining its purpose, technologies, and unique aspects.
-
-![Project Image](https://user-images.githubusercontent.com/project-2-image.jpg)
-
-- **Tech Stack:** Vue.js, Express.js, PostgreSQL
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
-
-### 3️⃣ [Project Name 3](https://github.com/abhishek-kumar/project-3)
-Project Description: Add the third project description here. Explain the functionality and the problem it addresses.
-
-![Project Image](https://user-images.githubusercontent.com/project-3-image.jpg)
-
-- **Tech Stack:** Python, Flask, SQLite
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
-
-### 4️⃣ [Project Name 4](https://github.com/abhishek-kumar/project-4)
-Project Description: Include the details for the fourth project, focusing on what makes it stand out and how it helps users.
-
-![Project Image](https://user-images.githubusercontent.com/project-4-image.jpg)
-
-- **Tech Stack:** Angular, Firebase, TypeScript
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
-
-### 5️⃣ [Project Name 5](https://github.com/abhishek-kumar/project-5)
-Project Description: Provide a short summary of the fifth project, including what problem it solves and how it's built.
-
-![Project Image](https://user-images.githubusercontent.com/project-5-image.jpg)
-
-- **Tech Stack:** React Native, Node.js, MongoDB
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
-
-### 6️⃣ [Project Name 6](https://github.com/abhishek-kumar/project-6)
-Project Description: Write about the sixth project, giving an overview of its significance, target audience, and main technologies.
-
-![Project Image](https://user-images.githubusercontent.com/project-6-image.jpg)
-
-- **Tech Stack:** PHP, MySQL, JavaScript
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
-
-### 7️⃣ [Project Name 7](https://github.com/abhishek-kumar/project-7)
-Project Description: Add the seventh project details here, highlighting the main features and technologies.
-
-![Project Image](https://user-images.githubusercontent.com/project-7-image.jpg)
-
-- **Tech Stack:** Django, PostgreSQL, JavaScript
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
-
-### 8️⃣ [Project Name 8](https://github.com/abhishek-kumar/project-8)
-Project Description: Lastly, provide a brief description of the eighth project and what it achieves.
-
-![Project Image](https://user-images.githubusercontent.com/project-8-image.jpg)
-
-- **Tech Stack:** Laravel, Vue.js, MySQL
-- **Key Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
----
 
 
 
