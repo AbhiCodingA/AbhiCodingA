@@ -42,23 +42,23 @@ An online clothing store showcasing over 150 products with dynamic category filt
 ## ⚡ GitHub Stats & Activity:
 <p align="center">
   <a href="https://github.com/AbhiCodingA">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishek-kumar&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhiCodingA&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400">
   </a>
   <a href="https://github.com/AbhiCodingA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kumar&theme=radical&hide_border=true" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiCodingA&theme=radical&hide_border=true" width="400">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AbhiCodingA">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-kumar&theme=react-dark&hide_border=true&bg_color=0D1117" width="800">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiCodingA&theme=react-dark&hide_border=true&bg_color=0D1117" width="800">
   </a>
 </p>
 
 ## 🏆 Trophies:
 <p align="center">
   <a href="https://github.com/AbhiCodingA">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-kumar&theme=dracula&no-frame=true&column=6" width="800"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AbhiCodingA&theme=dracula&no-frame=true&column=6" width="800"/>
   </a>
 </p>
 
