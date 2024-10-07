@@ -35,11 +35,11 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6203595849)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aabhishekkumarportfolio.netlify.app/)
 
-## 🌟 Featured Projects
+ ## 🌟 Featured Projects
 
 | Project Name                             | GitHub Repo                                                             | Tech Stack                                                                                    | Description                                                                                                         |
 |------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-
+| **💻 AbhiCoding**                        | [GitHub Repo](https://github.com/AbhiCodingA/AbhiCoding)              | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | A collection of coding projects showcasing various technologies.                                                   |
 | **🛠️ AdminPanelAPI**                     | [GitHub Repo](https://github.com/AbhiCodingA/AdminPanelAPI)           | ![EJS](https://img.shields.io/badge/-EJS-4F4F4F?style=flat-square)                                  | An API for managing an admin panel, built using EJS.                                                              |
 | **🍽️ Food**                             | [GitHub Repo](https://github.com/AbhiCodingA/Food)                     | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square)                     | A food ordering application designed with TypeScript.                                                              |
 | **📝 CipherSchools-MCQ-Test-Platform**  | [GitHub Repo](https://github.com/AbhiCodingA/CipherSchools-MCQ-Test-Platform) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | An MCQ test platform for coding skills, built with JavaScript.                                                   |
@@ -53,6 +53,7 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
 | **💰 Loan-Calculator**                   | [GitHub Repo](https://github.com/AbhiCodingA/Loan-Calculator)        | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square)                                   | A loan calculator designed using HTML.                                                                              |
 | **🗂️ Task-board**                       | [GitHub Repo](https://github.com/AbhiCodingA/Task-board)              | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | A task board application similar to Trello or Notion, built with JavaScript.                                     |
 | **🕰️ Analogue-Clock**                   | [GitHub Repo](https://github.com/AbhiCodingA/Analogue-Clock)         | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square)                                     | An analogue clock built with CSS for a responsive design.                                                          |
+
 
 
 
