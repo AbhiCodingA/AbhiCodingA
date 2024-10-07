@@ -28,12 +28,31 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-8b06a9228/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbHi0012ShEk?t=AnVe0oynIrdhCtT2JBThQw&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1abhiabhishek1?igsh=NDN1bm13ZzJ2djJp)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6203595849)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aabhishekkumarportfolio.netlify.app/)
 
+## 🌟 Featured Projects
 
-
-
-
-
+| Project Name                             | GitHub Repo                                                             | Tech Stack                                                                                    | Description                                                                                                         |
+|------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **💻 AbhiCoding**                        | [GitHub Repo](https://github.com/abhishek-kumar/AbhiCoding)            | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | A collection of coding projects showcasing various technologies.                                                   |
+| **🛠️ AdminPanelAPI**                     | [GitHub Repo](https://github.com/abhishek-kumar/AdminPanelAPI)         | ![EJS](https://img.shields.io/badge/-EJS-4F4F4F?style=flat-square)                                  | An API for managing an admin panel, built using EJS.                                                              |
+| **🍽️ Food**                             | [GitHub Repo](https://github.com/abhishek-kumar/Food)                   | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square)                     | A food ordering application designed with TypeScript.                                                              |
+| **📝 CipherSchools-MCQ-Test-Platform**  | [GitHub Repo](https://github.com/abhishek-kumar/CipherSchools-MCQ-Test-Platform) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | An MCQ test platform for coding skills, built with JavaScript.                                                   |
+| **🌐 Portfolio**                         | [GitHub Repo](https://github.com/abhishek-kumar/Portfolio)             | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square)                                    | My personal portfolio showcasing projects and skills.                                                              |
+| **👗 E-commerce-Clothing-website**       | [GitHub Repo](https://github.com/abhishek-kumar/E-commerce-Clothing-website) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square)                                   | An e-commerce website featuring a wide range of women's clothing products.                                        |
+| **🛒 Shopping-Time**                     | [GitHub Repo](https://github.com/abhishek-kumar/Shopping-Time)         | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | An e-commerce platform for women's clothing with various attributes.                                              |
+| **📦 Inventory-Tracker**                 | [GitHub Repo](https://github.com/abhishek-kumar/Inventory-Tracker)     | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square)                                   | An inventory tracking application built in Java.                                                                  |
+| **🍕 Pizza-Time**                       | [GitHub Repo](https://github.com/abhishek-kumar/Pizza-Time)           | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | An e-commerce platform for a pizza restaurant, featuring an interactive menu.                                    |
+| **⚖️ BMI-Calculator**                    | [GitHub Repo](https://github.com/abhishek-kumar/BMI-Calculator)       | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square)                                     | A simple BMI calculator designed with CSS.                                                                         |
+| **📚 English_Dictionary**                | [GitHub Repo](https://github.com/abhishek-kumar/English_Dictionary)    | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | A dictionary app built using HTML, CSS, and vanilla JavaScript.                                                  |
+| **💰 Loan-Calculator**                   | [GitHub Repo](https://github.com/abhishek-kumar/Loan-Calculator)      | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square)                                   | A loan calculator designed using HTML.                                                                              |
+| **🗂️ Task-board**                       | [GitHub Repo](https://github.com/abhishek-kumar/Task-board)            | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | A task board application similar to Trello or Notion, built with JavaScript.                                     |
+| **🕰️ Analogue-Clock**                   | [GitHub Repo](https://github.com/abhishek-kumar/Analogue-Clock)       | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square)                                     | An analogue clock built with CSS for a responsive design.               
 
 
 ## ⚡ GitHub Stats & Activity:
@@ -59,12 +78,7 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
   </a>
 </p>
 
-## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-8b06a9228/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbHi0012ShEk?t=AnVe0oynIrdhCtT2JBThQw&s=09)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1abhiabhishek1?igsh=NDN1bm13ZzJ2djJp)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6203595849)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aabhishekkumarportfolio.netlify.app/)
+
 
 ## 🖥️ Visitors:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=abhishek-kumar&color=blue&style=flat-square)
