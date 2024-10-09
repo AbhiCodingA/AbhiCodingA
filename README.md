@@ -53,7 +53,7 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
 | **🗂️ Task-board**                       | [GitHub Repo](https://github.com/AbhiCodingA/Task-board)              | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)                       | A task board application similar to Trello or Notion, built with JavaScript.                                     |
 | **🕰️ Analogue-Clock**                   | [GitHub Repo](https://github.com/AbhiCodingA/Analogue-Clock)         | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square)                                     | An analogue clock built with HTML CSS for a responsive design.                                                          |
 
-## ⚡ GitHub Stats & Activity:
+## ⚡GitHub Stats & Activity:
 <p align="center">
   <a href="https://github.com/AbhiCodingA">
     <img src="https://github-readme-stats.vercel.app/api?username=AbhiCodingA&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400">
@@ -69,7 +69,7 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
   </a>
 </p>
 
-## 🏆 Trophies:
+## 🏆Trophies:
 <p align="center">
   <a href="https://github.com/AbhiCodingA">
     <img src="https://github-profile-trophy.vercel.app/?username=AbhiCodingA&theme=dracula&no-frame=true&column=6" width="800"/>
@@ -78,5 +78,5 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
 
 
 
-## 🖥️ Visitors:
+## 🖥️Visitors:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=abhishek-kumar&color=blue&style=flat-square)
