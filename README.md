@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** specializing in frontend development w
 - 🌱 Currently Learning: **PHP** and **Laravel**
 - 🎓 Education: **B.Tech** in Computer Science from **Lovely Professional University**
 - 💬 Ask me about: React, Node.js, MongoDB, or PHP
-- 💻 Fun fact: I also love exploring cloud solutions, especially **AWS**
+- 💻 Fun fact: I also love exploring cloud solutions,especially **AWS**
 
 ## 🛠️ Tech Stack:
 - **Frontend:** 
